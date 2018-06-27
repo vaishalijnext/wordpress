@@ -1,0 +1,93 @@
+
+/*--------- For Large Desktop Device -----------*/
+
+/* 1440 to 1599 */
+@media only screen and (min-width:1440px){
+	
+}
+
+/* 1600 to 1679 */
+@media only screen and (min-width:1600px){
+	
+}
+
+/* 1680 to 1919 */
+@media only screen and (min-width:1680px){
+	
+}
+
+/* 1920 to 2049 */
+@media only screen and (min-width:1920px){
+	
+}
+
+/* 2050 to 2559 */
+@media only screen and (min-width:2050px){
+	
+}
+
+/* Greater than 2560*/
+@media only screen and (min-width:2560px){
+	
+}
+
+
+/*--------- For Tablate and Small Desktop Device -----------*/
+
+/* For 1280 or Up to 1365 */
+@media only screen and (max-width:1300px){
+	
+}
+
+/* For 1024 or Up to 1279 */
+@media only screen and (max-width:1279px){
+	
+}
+
+/* For 960 or Up to 1023 */
+@media only screen and (max-width:1023px){
+	
+}
+
+/* For 800 or Up to 959 */
+@media only screen and (max-width:959px){
+	
+}
+
+/* For 768 or Up to 799 */
+@media only screen and (max-width:799px){
+	
+}
+
+
+/*--------- For Tablate and Mobile Device -----------*/
+
+/* For 640 or Up to 767 */
+@media only screen and (max-width:767px){
+	
+}
+
+/* For 540 or Up to 639 */
+@media only screen and (max-width:639px){
+	
+}
+
+/* For 480 or Up to 539 */
+@media only screen and (max-width:539px){
+	
+}
+
+/* For 380 or Up to 479 */
+@media only screen and (max-width:479px){
+	
+}
+
+/* For 360 or Up to 379 */
+@media only screen and (max-width:379px){
+	
+}
+
+/* For 320 or Up to 359 */
+@media only screen and (max-width:359px){
+	
+}
